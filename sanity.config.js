@@ -17,4 +17,4 @@ export default defineConfig({
   title: 'BMSTalents',
   apiVersion: '2024-03-19',
   useCdn: true
-}) 
+})

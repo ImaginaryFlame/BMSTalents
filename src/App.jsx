@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import TestForm from './components/TestForm';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Hero />
         <Services />
         <Contact />
+        <TestForm />
       </main>
       <Footer />
     </div>
